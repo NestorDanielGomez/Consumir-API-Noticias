@@ -21,7 +21,6 @@ function App() {
             <Formulario />
           </Grid>
         </Grid>
-
         <ListadoNoticias />
       </Container>
     </NoticiasProvider>
