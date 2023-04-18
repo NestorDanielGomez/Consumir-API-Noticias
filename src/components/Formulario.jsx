@@ -1,6 +1,4 @@
 import { FormControl, InputLabel, Select, MenuItem } from "@mui/material";
-
-import { useEffect } from "react";
 import useNoticias from "../hooks/useNoticias";
 
 const CATEGORIAS = [
